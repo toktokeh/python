@@ -22,6 +22,6 @@
 | [Prime factors](https://www.codewars.com/kata/prime-factors/) | :star::star::star::star::star: | [✔](./solutions/prime-factors.py) |
 | [Python print](https://www.hackerrank.com/challenges/python-print/problem) | :star::star::star::star::star: | [✔](./solutions/python-print.py) |
 | [Replace with alphabet position](https://www.codewars.com/kata/replace-with-alphabet-position/) | :star::star::star::star::star: | [✔](./solutions/replace-with-alphabet-position.py) |
+| [Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow/) | :star::star::star::star::star: | [✔](./solutions/stop-gninnips-my-sdrow.py) |
 | [Vowel count](https://www.codewars.com/kata/vowel-count/) | :star::star::star::star::star: | [✔](./solutions/vowel-count.py) |
 | [Who ate the cookie?](https://www.codewars.com/kata/who-ate-the-cookie/) | :star::star::star::star::star: | [✔](./solutions/who-ate-the-cookie.py) |
-
