@@ -1,11 +1,12 @@
 | Challenge | Difficulty | Solution |
 |:-|:-|:-:|
 | [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same/) | :star::star::star::star::star: | [✔](./solutions/are-they-the-same.py) |
-| [Binary search](./challenges/binary-search.py) | :star::star::star::star::star: | [✔](./solutions/binary-search.py) |
+| [Binary search](./challenges/binary-search.py) | :star::star::star::star: | [✔](./solutions/binary-search.py) |
 | [Clock in mirror](https://www.codewars.com/kata/clock-in-mirror/) | :star::star::star::star::star: | [✔](./solutions/clock-in-mirror.py) |
 | [Decode the Morse code](https://www.codewars.com/kata/decode-the-morse-code/) | :star::star::star::star::star: | [✔](./solutions/decode-the-morse-code.py) |
 | [Delete nth](https://www.codewars.com/kata/delete-occurrences-of-an-element-if-it-occurs-more-than-n-times/) | :star::star::star::star::star: | [✔](./solutions/delete-nth.py) |
 | [Detect pangram](https://www.codewars.com/kata/detect-pangram) | :star::star::star::star::star: | [✔](./solutions/detect-pangram.py) |
+| [Digital root](https://www.codewars.com/kata/sum-of-digits-slash-digital-root/) | :star::star::star::star::star: | [✔](./solutions/digital-root.py) |
 | [Duplicate encoder](https://www.codewars.com/kata/duplicate-encoder/) | :star::star::star::star::star: | [✔](./solutions/duplicate-encoder.py) |
 | [Even Fibonacci sum](https://www.codewars.com/kata/even-fibonacci-sum) | :star::star::star::star::star: | [✔](./solutions/even-fibonacci-sum.py) |
 | [Find the odd int](https://www.codewars.com/kata/find-the-odd-int/) | :star::star::star::star::star: | [✔](./solutions/find-the-odd-int.py) |
@@ -24,4 +25,3 @@
 | [Replace with alphabet position](https://www.codewars.com/kata/replace-with-alphabet-position/) | :star::star::star::star::star: | [✔](./solutions/replace-with-alphabet-position.py) |
 | [Vowel count](https://www.codewars.com/kata/vowel-count/) | :star::star::star::star::star: | [✔](./solutions/vowel-count.py) |
 | [Who ate the cookie?](https://www.codewars.com/kata/who-ate-the-cookie/) | :star::star::star::star::star: | [✔](./solutions/who-ate-the-cookie.py) |
-
