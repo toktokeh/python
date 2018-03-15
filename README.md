@@ -1,3 +1,5 @@
+# #
+
 | Challenge | Difficulty | Solution |
 |:-|:-|:-:|
 | [Are they the "same"?](https://www.codewars.com/kata/are-they-the-same/) | :star::star::star::star::star: | [✔](./solutions/are-they-the-same.py) |
