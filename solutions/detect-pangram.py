@@ -4,7 +4,7 @@ import string
 
 
 def is_pangram(s):
-    return set(string.lowercase) <= set(s.lower())
+    return set(string.ascii_lowercase) <= set(s.lower())
 
 
 class Test(unittest.TestCase):
