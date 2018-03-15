@@ -310,9 +310,25 @@ AttributeError: 'frozenset' object has no attribute 'add'
 
 ## Input and output ##
 
+### Input ###
+
+```python
+name = input("What is your name? ")
+```
+
+- If we need something other than a string:
+
+```python
+gpa = float(input("What is your gpa? "))
+```
+
 ### Output ###
 
-If you don’t want characters prefaced by \ to be interpreted as special characters, you can use raw strings by adding an r before the first quote:
+```python
+print("Your average is", end = ' ')
+```
+
+- If you don’t want characters prefaced by \ to be interpreted as special characters, you can use raw strings by adding an r before the first quote:
 
 ```python
 >>> print('C:\some\name')  # here \n means newline!
