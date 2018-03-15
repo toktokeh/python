@@ -50,20 +50,41 @@
 
 [Miscellaneous](#test)
 
-
 ## Variables ##
 
+- Variable names can only contain letters, numbers and the underscore. They cannot begin with a number.
+
 ## Comments ##
+
+- If a line in a program contains the symbol #, everything following on the same line is considered as a comment:
+
+```python
+# This is a comment of the following statement
+a = 3 # ... which might get a further comment here
+```
 
 ## Numbers ##
 
 - Immutable objects include numbers, strings and tuples. Such an object cannot be altered. A new object has to be created if a different value has to be stored.
+
+- A number may be an integer, a real number, or a complex number.
+- Python also supports other types of numbers such as Decimal and Fraction.
+
+```python
+>>> type(2)
+<class 'int'>
+>>> type(2.0)
+<class 'float'>
+>>> type(2+3j)
+<class 'complex'>
+```
 
 ## Strings ##
 
 - Python strings cannot be changed — they are immutable. Therefore, assigning to an indexed position in the string results in an error:
 
 ```python
+>>> word = 'Python'
 >>> word[0] = 'J'
 TypeError: 'str' object does not support item assignment
 ```
@@ -75,7 +96,7 @@ TypeError: 'str' object does not support item assignment
 'unununium'
 ```
 
-- Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one:
+- Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one.
 
 ```python
 >>> word = 'Python'
@@ -92,7 +113,7 @@ TypeError: 'str' object does not support item assignment
 
 ```python
 for i, v in enumerate(['tic', 'tac', 'toe']):
-        print(i, v)
+    print(i, v)
 ```
 
 - To loop over two or more sequences at the same time, the entries can be paired with the zip() function:
@@ -101,7 +122,7 @@ for i, v in enumerate(['tic', 'tac', 'toe']):
 questions = ['name', 'quest', 'favorite color']
 answers = ['lancelot', 'the holy grail', 'blue']
 for q, a in zip(questions, answers):
-          print('What is your {0}?  It is {1}.'.format(q, a))
+    print('What is your {0}?  It is {1}.'.format(q, a))
 ```
 
 ```text
