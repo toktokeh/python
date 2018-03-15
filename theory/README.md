@@ -1,7 +1,30 @@
 # Python #
 
-[Variables](#Variables)
-
+[Variables](#test)
+[Comments](#test)
+[Numbers](#test)
+[Strings](#test)
+[Lists](#test)
+[Tuples](#test)
+[Dictionaries](#test)
+[Sets](#test)
+[Comprehensions](#test)
+[Flow control](#test)
+[Input and output](#test)
+[Operators](#test)
+[Functions](#test)
+[Iterators](#test)
+[Generators](#test)
+[Decorators](#test)
+[Errors and exceptions](#test)
+[Modules](#test)
+[Packages](#test)
+[Python Standard Library](#test)
+[Classes](#test)
+[Files](#test)
+[Regular Expressions](#test)
+[Testing](#test)
+[Miscellaneous](#test)
 
 ## Variables ##
 
