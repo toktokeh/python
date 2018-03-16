@@ -21,3 +21,11 @@
 ## Size ##
 
 - The size of a binary tree is simply the number of nodes in the tree.
+
+## Full binary tree ##
+
+- A full binary tree is a binary tree in which each interior node contains two children.
+
+## Perfect binary tree ##
+
+- A perfect binary tree is a full binary tree in which all leaf nodes are at the same level.
