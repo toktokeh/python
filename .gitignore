@@ -5,6 +5,7 @@
 *stackdump
 *test
 *test*.json
+.vscode/
 
 # Source: https://github.com/github/gitignore/
 
